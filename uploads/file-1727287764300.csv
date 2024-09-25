@@ -1,0 +1,8 @@
+title,amount,category,paymentMethod,date
+Electricity Bill,120.50,Utilities,cash,2024-09-01
+Groceries,75.90,Food,credit,2024-09-05
+Gym Membership,50.00,Health,credit,2024-09-10
+Restaurant Dinner,65.25,Food,cash,2024-09-12
+Internet Bill,40.00,Utilities,cash,2024-09-15
+Car Fuel,35.70,Transport,cash,2024-09-18
+Phone Bill,25.00,Utilities,credit,2024-09-20
