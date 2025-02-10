@@ -1,5 +1,8 @@
 /**
  * # Expense Tracker API
+* ## Swagger Documentation
+ * For detailed API specifications, visit the Swagger UI here:
+ * [Swagger API Docs](https://expense-tracker-app-ucwb.onrender.com/api-docs)
  * 
  * This is a comprehensive API for tracking expenses with features like user authentication, role-based access control (admin and normal users), CSV upload for bulk expenses, CRUD operations on expenses, advanced filtering, sorting, pagination, and statistics generation.
  * 
@@ -142,9 +145,7 @@
  * 1. Copy the JSON examples above into Postman requests.
  * 2. For endpoints requiring authentication, make sure to include the JWT token in the headers or as a cookie.
  * 
- * ## Swagger Documentation
- * For detailed API specifications, visit the Swagger UI here:
- * [Swagger API Docs](https://expense-tracker-app-ucwb.onrender.com/api-docs)
+ 
  * 
  * ---
  * ## License
